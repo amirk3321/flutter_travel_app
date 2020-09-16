@@ -1,16 +1,35 @@
-# flutter_travel_app
 
-A new Flutter application.
+# Flutter Travel App UI
 
-## Getting Started
+### Show some  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="30" height="30" />   and star the repo to support the project
 
-This project is a starting point for a Flutter application.
+### preview
+<br />
 
-A few resources to get you started if this is your first Flutter project:
+ ![ezgif com-crop(1)](https://user-images.githubusercontent.com/10207753/93391848-3d3f7b80-f889-11ea-8ac8-e398ce99c07c.gif)
+<br />
+<br />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/10207753/93389865-3a8f5700-f886-11ea-94bb-d199cb087d7a.png" width="260" height="450" /> 
+
+<img src="https://user-images.githubusercontent.com/10207753/93389904-4bd86380-f886-11ea-9e18-4fdda94474a7.png" width="260" height="450" />
+
+<img src="https://user-images.githubusercontent.com/10207753/93390327-f486c300-f886-11ea-8544-c54d68de9362.png" width="260" height="450" />
+
+</p>
+
+
+<br />
+<br />
+<img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
+<a href="https://youtu.be/jjceXgkeoRc">Watch Flutter Travel App UI - complete video </a>
+</p>
+
+
+### Created & Maintained By
+
+[@AmirKhan](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A) , Twitter  : [@AmirKhan](https://twitter.com/__Meer___)
+
