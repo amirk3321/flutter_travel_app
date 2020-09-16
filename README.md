@@ -25,7 +25,7 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/jjceXgkeoRc">Watch Flutter Travel App UI - complete video </a>
+<a href="https://youtu.be/cf3om2BW8rY">Watch Flutter Travel App UI - complete video </a>
 </p>
 
 
